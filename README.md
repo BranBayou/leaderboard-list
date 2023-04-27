@@ -19,11 +19,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-# 📖 To-do list <a name="about-project"></a>
+# 📖 Leaderboard list <a name="about-project"></a>
 
 ## HTML+CSS Setup
 
-**HTML+CSS Setup** is an open source project aimed at building a safer, secure, fast, efficient and more realiable website
+**HTML+CSS Setup** is an open source project aimed at building a safer, secure, fast, efficient and more realiable website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,7 +55,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](not available)
+- [Live Demo Link](https://branbayou.github.io/leaderboard-list/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +84,7 @@ Clone this repository to your desired folder: git@github.com:BranBayou/capstoneP
 ### Install
 
 1. Clone the repo:
-  https://github.com/BranBayou/to-do-list
+  https://github.com/BranBayou/leaderboard-list
 2. Install npm packages:
   npm.install
 
@@ -136,7 +136,7 @@ This page has been deployed with gitbub pages. -->
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/BranBayou/to-do-list/issues).
+Feel free to check the [issues page](https://github.com/BranBayou/leaderboard-list/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

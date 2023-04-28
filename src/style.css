@@ -90,17 +90,19 @@ ul li:nth-child(odd) {
   box-shadow: 2px 3px 0 black;
 }
 
-@media (max-width:600px){
+@media (max-width: 600px) {
   .main {
     display: flex;
     flex-direction: column-reverse;
     gap: 1rem;
   }
+
   .header {
     margin: 1rem 0;
     background-color: darkgrey;
     text-align: center;
   }
+
   .form {
     display: flex;
     flex-direction: column;

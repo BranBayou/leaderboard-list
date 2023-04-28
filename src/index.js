@@ -1,8 +1,7 @@
 import './style.css';
-import {gameID, baseURL, newGame} from './modules/newGame.js'
+import { gameID } from './modules/newGame.js';
 import saveScore from './modules/saveScore.js';
-import newScores from './modules/renderScore.js';
-import { scoreList } from './modules/renderScore.js';
+import newScores, { scoreList } from './modules/renderScore.js';
 
 const playerName = document.querySelector('#user-name');
 const playerScore = document.querySelector('#user-score');

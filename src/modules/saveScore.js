@@ -9,8 +9,7 @@ const saveScore = async (gameID, userName, score) => {
         user: userName,
         score,
       }),
-    },
-  );
+    });
 
   const data = await response.json();
   return data;

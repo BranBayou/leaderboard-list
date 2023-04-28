@@ -11,13 +11,16 @@ body {
 
 .header {
   margin: 3rem 0;
+  background-color: darkgrey;
 }
 
 .main {
   max-width: 90%;
   margin: 0 auto;
+  padding: 10px;
   display: flex;
   justify-content: space-around;
+  background-color: darkgrey;
 }
 
 .score-div {
@@ -85,4 +88,28 @@ ul li:nth-child(odd) {
   width: 5rem;
   height: 1.8rem;
   box-shadow: 2px 3px 0 black;
+}
+
+@media (max-width:500px){
+  .main {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 1rem;
+  }
+  .header {
+    margin: 1rem 0;
+    background-color: darkgrey;
+    text-align: center;
+  }
+  .form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .add-score-div {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
 }
